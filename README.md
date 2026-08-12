@@ -29,7 +29,7 @@ Each day includes:
 
 ### 🟢 PHASE 1 — SQL FUNDAMENTALS
 
-- [ ] Day 01 — Introduction to SQL & Databases
+- [x] Day 01 — Introduction to SQL & Databases
 - [ ] Day 02 — DBMS & RDBMS
 - [ ] Day 03 — CREATE DATABASE & CREATE TABLE
 - [ ] Day 04 — INSERT
@@ -106,9 +106,9 @@ Each day includes:
 
 ## 📊 Progress
 
-**Day 00 / 60**
+**Day 01/ 60**
 
-`░░░░░░░░░░░░░░░░░░░░` 0%
+`░░░░░░░░░░░░░░░░░░░░` 2%
 
 ---
 
