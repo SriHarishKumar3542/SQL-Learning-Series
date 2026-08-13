@@ -29,12 +29,12 @@ Each day includes:
 
 ### 🟢 PHASE 1 — SQL FUNDAMENTALS
 
-- [x] Day 01 — Introduction to SQL & Databases
-- [ ] Day 02 — DBMS & RDBMS
-- [ ] Day 03 — CREATE DATABASE & CREATE TABLE
-- [ ] Day 04 — INSERT
-- [ ] Day 05 — SELECT
-- [ ] Day 06 — WHERE
+- [x] Day 01 — SQL Basics: CREATE DATABASE, CREATE TABLE, INSERT, SELECT
+- [x] Day 02 — WHERE & Filtering
+- [ ] Day 03 — Comparison & Logical Operators
+- [ ] Day 04 — ORDER BY
+- [ ] Day 05 — DISTINCT
+- [ ] Day 06 — LIMIT
 - [ ] Day 07 — Comparison & Logical Operators
 - [ ] Day 08 — ORDER BY
 - [ ] Day 09 — DISTINCT
@@ -106,9 +106,9 @@ Each day includes:
 
 ## 📊 Progress
 
-**Day 01/ 60**
+**Day 02/ 60**
 
-`░░░░░░░░░░░░░░░░░░░░` 2%
+`░░░░░░░░░░░░░░░░░░░░` 3.33%
 
 ---
 
