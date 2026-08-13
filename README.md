@@ -6,7 +6,7 @@ SQL learning series covering concepts, queries, practice problem and mini challe
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-0%2F60-orange)
+![Days](https://img.shields.io/badge/Days-2%2F60-orange)
 
 ---
 
@@ -25,83 +25,104 @@ Each day includes:
 
 ---
 
-## 🗺️ 60-Day SQL Roadmap
+## 📚 60-Day SQL Roadmap
 
 ### 🟢 PHASE 1 — SQL FUNDAMENTALS
 
 - [x] Day 01 — SQL Basics: CREATE DATABASE, CREATE TABLE, INSERT, SELECT
 - [x] Day 02 — WHERE & Filtering
 - [ ] Day 03 — Comparison & Logical Operators
-- [ ] Day 04 — ORDER BY
+- [ ] Day 04 — ORDER BY & Sorting
 - [ ] Day 05 — DISTINCT
-- [ ] Day 06 — LIMIT
-- [ ] Day 07 — Comparison & Logical Operators
-- [ ] Day 08 — ORDER BY
-- [ ] Day 09 — DISTINCT
-- [ ] Day 10 — LIMIT
-- [ ] Day 11 — NULL Values
-- [ ] Day 12 — LIKE & Wildcards
-- [ ] Day 13 — IN, BETWEEN & NOT
-- [ ] Day 14 — SQL Functions
+- [ ] Day 06 — LIMIT & OFFSET
+- [ ] Day 07 — Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
+- [ ] Day 08 — GROUP BY
+- [ ] Day 09 — HAVING
+- [ ] Day 10 — SQL Functions: String & Numeric Functions
 
-### 🔵 PHASE 2 — AGGREGATION & DATA MANIPULATION
+### 🔵 PHASE 2 — JOINS & RELATIONSHIPS
 
-- [ ] Day 15 — Aggregate Functions
-- [ ] Day 16 — GROUP BY
-- [ ] Day 17 — HAVING
-- [ ] Day 18 — COUNT, SUM, AVG, MIN, MAX
-- [ ] Day 19 — UPDATE
-- [ ] Day 20 — DELETE
-- [ ] Day 21 — ALTER TABLE
-- [ ] Day 22 — Constraints
-- [ ] Day 23 — PRIMARY KEY
-- [ ] Day 24 — FOREIGN KEY
-- [ ] Day 25 — UNIQUE & NOT NULL
-- [ ] Day 26 — DEFAULT & CHECK
-- [ ] Day 27 — Practice Problems I
-- [ ] Day 28 — SQL Challenge I
+- [ ] Day 11 — Database Relationships & Foreign Keys
+- [ ] Day 12 — INNER JOIN
+- [ ] Day 13 — LEFT JOIN
+- [ ] Day 14 — RIGHT JOIN
+- [ ] Day 15 — FULL OUTER JOIN
+- [ ] Day 16 — SELF JOIN
+- [ ] Day 17 — CROSS JOIN
+- [ ] Day 18 — JOIN Practice: Multi-Table Problems
+- [ ] Day 19 — JOINs with GROUP BY & Aggregates
+- [ ] Day 20 — JOIN Challenge
 
-### 🟡 PHASE 3 — JOINS & RELATIONAL QUERIES
+### 🟡 PHASE 3 — INTERMEDIATE SQL
 
-- [ ] Day 29 — Understanding Relationships
-- [ ] Day 30 — INNER JOIN
-- [ ] Day 31 — LEFT JOIN
-- [ ] Day 32 — RIGHT JOIN
-- [ ] Day 33 — FULL OUTER JOIN
-- [ ] Day 34 — SELF JOIN
-- [ ] Day 35 — CROSS JOIN
-- [ ] Day 36 — Multiple Table JOINs
-- [ ] Day 37 — JOIN + GROUP BY
-- [ ] Day 38 — JOIN + HAVING
-- [ ] Day 39 — JOIN Practice Problems
-- [ ] Day 40 — SQL Challenge II
+- [ ] Day 21 — Subqueries: Introduction
+- [ ] Day 22 — Scalar & Multi-Row Subqueries
+- [ ] Day 23 — Correlated Subqueries
+- [ ] Day 24 — IN, EXISTS & NOT EXISTS
+- [ ] Day 25 — CASE Expressions
+- [ ] Day 26 — NULL Values & NULL Functions
+- [ ] Day 27 — COALESCE & NULLIF
+- [ ] Day 28 — String Functions
+- [ ] Day 29 — Date & Time Functions
+- [ ] Day 30 — Intermediate SQL Challenge
 
-### 🟠 PHASE 4 — INTERMEDIATE SQL
+### 🟠 PHASE 4 — DATABASE DESIGN & CONSTRAINTS
 
-- [ ] Day 41 — Subqueries
-- [ ] Day 42 — Correlated Subqueries
-- [ ] Day 43 — EXISTS & NOT EXISTS
-- [ ] Day 44 — CASE Expressions
-- [ ] Day 45 — UNION
-- [ ] Day 46 — UNION ALL
-- [ ] Day 47 — INTERSECT & EXCEPT
-- [ ] Day 48 — Views
-- [ ] Day 49 — Common Table Expressions (CTEs)
-- [ ] Day 50 — Recursive CTEs
+- [ ] Day 31 — PRIMARY KEY & FOREIGN KEY
+- [ ] Day 32 — UNIQUE, NOT NULL & DEFAULT
+- [ ] Day 33 — CHECK Constraints
+- [ ] Day 34 — Composite Keys & Candidate Keys
+- [ ] Day 35 — Referential Integrity
+- [ ] Day 36 — Database Normalization
+- [ ] Day 37 — First Normal Form (1NF)
+- [ ] Day 38 — Second Normal Form (2NF)
+- [ ] Day 39 — Third Normal Form (3NF)
+- [ ] Day 40 — Database Design Challenge
 
 ### 🔴 PHASE 5 — ADVANCED SQL
 
-- [ ] Day 51 — Window Functions
-- [ ] Day 52 — ROW_NUMBER
-- [ ] Day 53 — RANK & DENSE_RANK
-- [ ] Day 54 — PARTITION BY
-- [ ] Day 55 — LEAD & LAG
-- [ ] Day 56 — Indexes
-- [ ] Day 57 — Transactions
-- [ ] Day 58 — Stored Procedures & Triggers
-- [ ] Day 59 — Advanced SQL Challenge
-- [ ] Day 60 — Final SQL Mini Project 🚀
+- [ ] Day 41 — Views
+- [ ] Day 42 — Common Table Expressions (CTEs)
+- [ ] Day 43 — Recursive CTEs
+- [ ] Day 44 — Window Functions: OVER & PARTITION BY
+- [ ] Day 45 — ROW_NUMBER, RANK & DENSE_RANK
+- [ ] Day 46 — LEAD & LAG
+- [ ] Day 47 — Running Totals & Moving Averages
+- [ ] Day 48 — Advanced Window Function Problems
+- [ ] Day 49 — Indexes & Query Performance
+- [ ] Day 50 — Transactions: COMMIT, ROLLBACK & SAVEPOINT
 
+### 🟣 PHASE 6 — REAL-WORLD SQL & PROJECT
+
+- [ ] Day 51 — Stored Procedures
+- [ ] Day 52 — Triggers
+- [ ] Day 53 — Functions & User-Defined Functions
+- [ ] Day 54 — Advanced Query Optimization
+- [ ] Day 55 — SQL Interview Questions
+- [ ] Day 56 — SQL Debugging & Query Challenges
+- [ ] Day 57 — Real-World Database Case Study
+- [ ] Day 58 — SQL Mini Project: Database Design
+- [ ] Day 59 — SQL Mini Project: Queries & Analysis
+- [ ] Day 60 — Final SQL Project + Complete Revision
+
+### 🎯 Final Goal
+
+By the end of 60 days, I should be able to:
+
+- Design relational databases
+- Write SQL queries confidently
+- Filter, sort and aggregate data
+- Work with multiple tables using JOINs
+- Solve problems using subqueries and CTEs
+- Use CASE expressions and SQL functions
+- Design tables with proper constraints
+- Understand normalization
+- Write window-function queries
+- Understand indexes and query performance
+- Work with transactions
+- Use views, procedures and triggers
+- Solve SQL interview problems
+- Build a complete SQL database project
 ---
 
 ## 📊 Progress
