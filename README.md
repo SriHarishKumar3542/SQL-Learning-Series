@@ -6,7 +6,7 @@ SQL learning series covering concepts, queries, practice problem and mini challe
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-02%2F60-orange)
+![Days](https://img.shields.io/badge/Days-0%2F60-orange)
 
 ---
 
