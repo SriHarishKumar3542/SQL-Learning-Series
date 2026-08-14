@@ -6,7 +6,7 @@ SQL learning series covering concepts, queries, practice problem and mini challe
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-2%2F60-orange)
+![Days](https://img.shields.io/badge/Days-3%2F60-orange)
 
 ---
 
@@ -31,7 +31,7 @@ Each day includes:
 
 - [x] Day 01 — SQL Basics: CREATE DATABASE, CREATE TABLE, INSERT, SELECT
 - [x] Day 02 — WHERE & Filtering
-- [ ] Day 03 — Comparison & Logical Operators
+- [x] Day 03 — Comparison & Logical Operators
 - [ ] Day 04 — ORDER BY & Sorting
 - [ ] Day 05 — DISTINCT
 - [ ] Day 06 — LIMIT & OFFSET
@@ -129,7 +129,7 @@ By the end of 60 days, I should be able to:
 
 **Day 02/ 60**
 
-`░░░░░░░░░░░░░░░░░░░░` 3.33%
+`░░░░░░░░░░░░░░░░░░░░` 5%
 
 ---
 
