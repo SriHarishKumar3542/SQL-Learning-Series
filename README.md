@@ -127,7 +127,7 @@ By the end of 60 days, I should be able to:
 
 ## 📊 Progress
 
-**Day 02/ 60**
+**Day 03/ 60**
 
 `░░░░░░░░░░░░░░░░░░░░` 5%
 
