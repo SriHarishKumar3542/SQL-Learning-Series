@@ -32,7 +32,7 @@ Each day includes:
 - [x] Day 01 — SQL Basics: CREATE DATABASE, CREATE TABLE, INSERT, SELECT
 - [x] Day 02 — WHERE & Filtering
 - [x] Day 03 — Comparison & Logical Operators
-- [ ] Day 04 — ORDER BY & Sorting
+- [x] Day 04 — ORDER BY & Sorting
 - [ ] Day 05 — DISTINCT
 - [ ] Day 06 — LIMIT & OFFSET
 - [ ] Day 07 — Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
