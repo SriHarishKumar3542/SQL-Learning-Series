@@ -6,7 +6,7 @@ SQL learning series covering concepts, queries, practice problem and mini challe
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-5%2F60-orange)
+![Days](https://img.shields.io/badge/Days-6%2F60-orange)
 
 ---
 
@@ -34,7 +34,7 @@ Each day includes:
 - [x] Day 03 — Comparison & Logical Operators
 - [x] Day 04 — ORDER BY & Sorting
 - [x] Day 05 — DISTINCT
-- [ ] Day 06 — LIMIT & OFFSET
+- [x] Day 06 — LIMIT & OFFSET
 - [ ] Day 07 — Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
 - [ ] Day 08 — GROUP BY
 - [ ] Day 09 — HAVING
@@ -127,9 +127,9 @@ By the end of 60 days, I should be able to:
 
 ## 📊 Progress
 
-**Day 05/ 60**
+**Day 06/ 60**
 
-`░░░░░░░░░░░░░░░░░░░░` 8.3%
+`░░░░░░░░░░░░░░░░░░░░` 10%
 
 ---
 
