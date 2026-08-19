@@ -35,7 +35,7 @@ Each day includes:
 - [x] Day 04 — ORDER BY & Sorting
 - [x] Day 05 — DISTINCT
 - [x] Day 06 — LIMIT & OFFSET
-- [x] Day 07 — Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
+- [x] Day 07 — AGGREGATE FUNCTIONS: COUNT, SUM, AVG, MIN, MAX
 - [ ] Day 08 — GROUP BY
 - [ ] Day 09 — HAVING
 - [ ] Day 10 — SQL Functions: String & Numeric Functions
