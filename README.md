@@ -6,7 +6,7 @@ SQL learning series covering concepts, queries, practice problem and mini challe
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-7%2F60-orange)
+![Days](https://img.shields.io/badge/Days-9%2F60-orange)
 
 ---
 
@@ -36,8 +36,8 @@ Each day includes:
 - [x] Day 05 — DISTINCT
 - [x] Day 06 — LIMIT & OFFSET
 - [x] Day 07 — AGGREGATE FUNCTIONS: COUNT, SUM, AVG, MIN, MAX
-- [ ] Day 08 — GROUP BY
-- [ ] Day 09 — HAVING
+- [x] Day 08 — GROUP BY
+- [x] Day 09 — HAVING
 - [ ] Day 10 — SQL Functions: String & Numeric Functions
 
 ### 🔵 PHASE 2 — JOINS & RELATIONSHIPS
@@ -127,7 +127,7 @@ By the end of 60 days, I should be able to:
 
 ## 📊 Progress
 
-**Day 07/ 60**
+**Day 09/ 60**
 
 `░░░░░░░░░░░░░░░░░░░░` 11.6%
 
