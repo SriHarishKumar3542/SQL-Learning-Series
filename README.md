@@ -30,7 +30,7 @@ Each day includes:
 ### 🟢 PHASE 1 — SQL FUNDAMENTALS
 
 - [x] Day 01 — SQL BASICS: CREATE DATABASE, CREATE TABLE, INSERT, SELECT
-- [x] Day 02 — WHERE & Filtering
+- [x] Day 02 — WHERE & FILTERING
 - [x] Day 03 — Comparison & Logical Operators
 - [x] Day 04 — ORDER BY & Sorting
 - [x] Day 05 — DISTINCT
