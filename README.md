@@ -105,7 +105,7 @@ Each day includes:
 - [ ] Day 59 — SQL Mini Project: Queries & Analysis
 - [ ] Day 60 — Final SQL Project + Complete Revision
 
-### 🎯 Final Goal
+### 🎯 FINAL GOAL
 
 By the end of 60 days, I should be able to:
 
