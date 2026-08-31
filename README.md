@@ -1,6 +1,6 @@
 # SQL-Learning-Series
 SQL learning series covering concepts, queries, practice problem and mini challenges.
-# 📚 SQL Learning Series
+# 📚 SQL LEARNING SERIES
 
 > 60 days of SQL — learn it, practice it, and build with it.
 
