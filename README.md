@@ -1,4 +1,4 @@
-# SQL-Learning-Series
+# SQL-LEARNING-SERIES
 SQL learning series covering concepts, queries, practice problem and mini challenges.
 # 📚 SQL LEARNING SERIES
 
@@ -25,7 +25,7 @@ Each day includes:
 
 ---
 
-## 📚 60-Day SQL Roadmap
+## 📚 60-Day SQL ROADMAP
 
 ### 🟢 PHASE 1 — SQL FUNDAMENTALS
 
