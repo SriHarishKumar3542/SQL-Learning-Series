@@ -4,7 +4,7 @@
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-09%2F30-orange)
+![Days](https://img.shields.io/badge/Days-10%2F30-orange)
 
 ---
 
@@ -35,7 +35,7 @@ Each day includes:
 * [x] **Day 07** — Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
 * [x] **Day 08** — GROUP BY
 * [x] **Day 09** — HAVING
-* [ ] **Day 10** — SQL Functions: String & Numeric Functions
+* [x] **Day 10** — SQL Functions: String & Numeric Functions
 
 ---
 
@@ -105,9 +105,9 @@ By the end of 30 days, I should be able to:
 
 # 📊 Progress
 
-**Day 09 / 30**
+**Day 10 / 30**
 
-`██████░░░░░░░░░░░░░░` **30%**
+`██████░░░░░░░░░░░░░░` **33.3%**
 
 ---
 
