@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About This Series
+## 🎯 ABOUT THIS SERIES
 
 This repository documents my **30-day journey of learning SQL**, starting from the fundamentals and progressing toward advanced SQL, database design, optimization, and a real-world SQL project.
 
