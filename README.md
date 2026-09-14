@@ -4,7 +4,7 @@
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Learning](https://img.shields.io/badge/Status-In%20Progress-green)
-![Days](https://img.shields.io/badge/Days-10%2F30-orange)
+![Days](https://img.shields.io/badge/Days-11%2F30-orange)
 
 ---
 
@@ -41,7 +41,7 @@ Each day includes:
 
 ## 🔵 PHASE 2 — JOINS & RELATIONSHIPS
 
-* [ ] **Day 11** — Database Relationships & Foreign Keys
+* [x] **Day 11** — Database Relationships & Foreign Keys
 * [ ] **Day 12** — INNER JOIN
 * [ ] **Day 13** — LEFT JOIN, RIGHT JOIN & FULL OUTER JOIN
 * [ ] **Day 14** — SELF JOIN & CROSS JOIN
