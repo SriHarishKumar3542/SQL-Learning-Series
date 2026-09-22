@@ -103,7 +103,7 @@ By the end of 30 days, I should be able to:
 
 ---
 
-# 📊 Progress
+# 📊 PROGRESS
 
 **Day 11 / 30**
 
@@ -132,7 +132,7 @@ The project should include:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 AUTHOR
 
 **Sri Harish Kumar S**
 
